@@ -1,0 +1,17 @@
+{
+    "name": "lioneagle/le-core",
+    "autoload": {
+        "psr-4": {
+            "Lioneagle\\LeCore\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "James Mooring",
+            "email": "james@lioneagle.solutions"
+        }
+    ],
+    "require": {
+        "lioneagle/le-utils": "^1.1"
+    }
+}
